@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **https://aashishkasar-dsi-project2-app-k50loe.streamlit.app/**
 
+- 🚴‍♂️ Cycling Data [strava.com/athletes/90620852](strava.com/athletes/90620852)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aashishkasar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aashishkasar/" height="30" width="40" /></a>
