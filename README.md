@@ -1,18 +1,18 @@
 [![MasterHead]( https://www.huck.psu.edu/assets/uploads/content-images/_1024xAUTO_fit_center-center_80_none/Banner_Sensors_Artificial_Intelligence.jpg)]
 
 <h1 align="center">Hi 👋, I'm Aashish</h1>
-<h3 align="center">my interest in CV</h3>
+<h3 align="center">my interest in Data Science</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/dresma/Dresma_Library/Senior-Software_1Yc9yhzGz.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishkasar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishkasar" /> </p>
 
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working  **Data Science Intern**
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Computer Vision**
+- 💬 Ask me about **ML,DL**
 
 - 📫 How to reach me **aashishkasar2011@gmail.com**
 
