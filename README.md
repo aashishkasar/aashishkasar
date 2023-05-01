@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working  **Data Science Intern**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **ML,DL**
 
