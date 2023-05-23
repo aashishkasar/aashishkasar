@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishkasar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishkasar" /> </p>
 
 
-- 🔭 I’m currently working  **Data Science Intern**
+- 🔭 I’m currently working  **Plant disease Classification**
 
 - 🌱 I’m currently learning **NLP**
 
