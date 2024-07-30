@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aashishkasar2011@gmail.com**
 
-- 🚴‍♂️ Cycling Data [strava.com/athletes/90620852](strava.com/athletes/90620852)
+- 🚴‍♂️ Cycling Insights [strava.com/athletes/90620852](strava.com/athletes/90620852)
 
 - ⚡ Fun fact **https://aashishkasar-dsi-project2-app-k50loe.streamlit.app/**
 
