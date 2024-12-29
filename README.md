@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working  **Plant disease Classification**
 
-- 🌱 I’m currently learning **Generative AI** **NLP Practitioner**
+- 🌱 I’m currently learning **Generative AI**, NLP Practitioner
 
 - 💬 Ask me about **ML,DL**
 
