@@ -20,7 +20,9 @@
 - 
 - 🚴‍♂️ Cycling Insights [strava.com/athletes/90620852](strava.com/athletes/90620852)
 - 
-- **ML DL GenAI Projects Below**
+- **🚀 Machine Learning (ML) Projects**
+- **🧠 Deep Learning (DL) Projects**
+- **🤖 Generative AI (GenAI) Projects**
 - **🍅🌱 Tomato_Leaf_Disease_Detection** https://huggingface.co/spaces/Aashish13/Tomato_Leaf_Disease_Detection
 
 - **⚡ Fun fact** https://aashishkasar-dsi-project2-app-k50loe.streamlit.app/
