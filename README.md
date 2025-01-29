@@ -8,14 +8,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishkasar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishkasar" /> </p>
 
 
+
 - 🔭 I’m currently working  **Plant disease Classification**
 
 - 🌱 I’m currently learning **Generative AI**, NLP Practitioner
 
 - 💬 Ask me about **ML,DL**
+- 
 
 - 📫 How to reach me **aashishkasar2011@gmail.com**
+- 
 - 🚴‍♂️ Cycling Insights [strava.com/athletes/90620852](strava.com/athletes/90620852)
+- 
 - **ML DL GenAI Projects Below**
 - **🍅🌱 Tomato_Leaf_Disease_Detection** https://huggingface.co/spaces/Aashish13/Tomato_Leaf_Disease_Detection
 
