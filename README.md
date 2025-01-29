@@ -15,8 +15,8 @@
 - 💬 Ask me about **ML,DL**
 
 - 📫 How to reach me **aashishkasar2011@gmail.com**
-
 - 🚴‍♂️ Cycling Insights [strava.com/athletes/90620852](strava.com/athletes/90620852)
+- **ML DL GenAI Projects Below**
 - **🍅🌱 Tomato_Leaf_Disease_Detection** https://huggingface.co/spaces/Aashish13/Tomato_Leaf_Disease_Detection
 
 - **⚡ Fun fact** https://aashishkasar-dsi-project2-app-k50loe.streamlit.app/
