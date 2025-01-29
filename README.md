@@ -17,13 +17,13 @@
 - 📫 How to reach me **aashishkasar2011@gmail.com**
 
 - 🚴‍♂️ Cycling Insights [strava.com/athletes/90620852](strava.com/athletes/90620852)
-- 🍅🌱 Tomato_Leaf_Disease_Detection https://huggingface.co/spaces/Aashish13/Tomato_Leaf_Disease_Detection
+- **🍅🌱 Tomato_Leaf_Disease_Detection** https://huggingface.co/spaces/Aashish13/Tomato_Leaf_Disease_Detection
 
-- ⚡ Fun fact **https://aashishkasar-dsi-project2-app-k50loe.streamlit.app/**
+- **⚡ Fun fact** https://aashishkasar-dsi-project2-app-k50loe.streamlit.app/
   
-- ⚡ 📊 WhatsApp Chat Analysis **https://whatsapp-chat-analysis-b7ztkmuqysbwinh7ma7vld.streamlit.app/**
-- 
--  Resume Classifier **https://huggingface.co/spaces/Aashish13/Resume_Screening_with_Python_NLP**
+- **⚡ 📊 WhatsApp Chat Analysis** https://whatsapp-chat-analysis-b7ztkmuqysbwinh7ma7vld.streamlit.app/
+  
+-  **🚀 Resume Classifier** https://huggingface.co/spaces/Aashish13/Resume_Screening_with_Python_NLP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
