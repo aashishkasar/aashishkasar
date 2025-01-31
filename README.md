@@ -30,6 +30,8 @@
 - **⚡ 📊 WhatsApp Chat Analysis** https://whatsapp-chat-analysis-b7ztkmuqysbwinh7ma7vld.streamlit.app/
   
 -  **🚀 Resume Classifier** https://huggingface.co/spaces/Aashish13/Resume_Screening_with_Python_NLP
+  
+-  **🍺 PubsFinder** https://aashishkasar-pubs-app-app-uer324.streamlit.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
