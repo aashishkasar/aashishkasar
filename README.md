@@ -23,7 +23,10 @@
 - **🚀 Machine Learning (ML) Projects**
 - **🧠 Deep Learning (DL) Projects**
 - **🤖 Generative AI (GenAI) Projects**
+
 - **🍅🌱 Tomato_Leaf_Disease_Detection** https://huggingface.co/spaces/Aashish13/Tomato_Leaf_Disease_Detection
+
+- - **🌾 Crop Recommendation System** https://huggingface.co/spaces/Aashish13/Crop_Recommendation_System
 
 - **⚡ Fun fact** https://aashishkasar-dsi-project2-app-k50loe.streamlit.app/
   
