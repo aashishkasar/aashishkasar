@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working  **Plant disease Classification**
 
-- 🌱 I’m currently learning **Generative AI**, NLP Practitioner
+- 🌱 I’m currently learning **Generative AI**, **Agentic AI** NLP Practitioner
 
 - 💬 Ask me about **ML,DL**
 - 
@@ -22,7 +22,7 @@
 - 
 - **🚀 Machine Learning (ML) Projects**
 - **🧠 Deep Learning (DL) Projects**
-- **🤖 Generative AI (GenAI) Projects**
+- **🤖 Generative AI (GenAI) & Agentic AI Projects**
 
 - **🍅🌱 Tomato_Leaf_Disease_Detection** https://huggingface.co/spaces/Aashish13/Tomato_Leaf_Disease_Detection
 
