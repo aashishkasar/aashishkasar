@@ -1,7 +1,7 @@
 [![MasterHead]( https://www.huck.psu.edu/assets/uploads/content-images/_1024xAUTO_fit_center-center_80_none/Banner_Sensors_Artificial_Intelligence.jpg)]
 
 <h1 align="center">Hi 👋, I'm Aashish</h1>
-<h3 align="center">my interest in Data Science</h3>
+<h3 align="center">AI Engineer</h3>
 
 <img align="right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working  **Plant disease Classification**
 
-- 🌱 I’m currently learning **Generative AI**, **Agentic AI** NLP Practitioner
+- 🌱 I’m currently  **Generative AI**, **Agentic AI** Practitioner
 
-- 💬 Ask me about **ML,DL**
+- 💬 Ask me about **ML,DL,**
 - 
 
 - 📫 How to reach me **aashishkasar2011@gmail.com**
