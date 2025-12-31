@@ -20,21 +20,35 @@
 - 
 - 🚴‍♂️ Cycling Insights [strava.com/athletes/90620852](strava.com/athletes/90620852)
 - 
-- **🚀 Machine Learning (ML) Projects**
-- **🧠 Deep Learning (DL) Projects**
-- **🤖 Generative AI (GenAI) & Agentic AI Projects**
+### 🚀 Featured Projects
 
-- **🍅🌱 Tomato_Leaf_Disease_Detection** https://huggingface.co/spaces/Aashish13/Tomato_Leaf_Disease_Detection
+<p align="left">
 
-- - **🌾 Crop Recommendation System** https://huggingface.co/spaces/Aashish13/Crop_Recommendation_System
+<a href="https://huggingface.co/spaces/Aashish13/Tomato_Leaf_Disease_Detection" target="_blank">
+  <img src="https://img.shields.io/badge/🍅 Tomato Leaf Disease Detection-HuggingFace-orange?style=for-the-badge&logo=huggingface"/>
+</a>
 
-- **⚡ Fun fact** https://aashishkasar-dsi-project2-app-k50loe.streamlit.app/
-  
-- **⚡ 📊 WhatsApp Chat Analysis** https://whatsapp-chat-analysis-b7ztkmuqysbwinh7ma7vld.streamlit.app/
-  
--  **🚀 Resume Classifier** https://huggingface.co/spaces/Aashish13/Resume_Screening_with_Python_NLP
-  
--  **🍺 PubsFinder** https://aashishkasar-pubs-app-app-uer324.streamlit.app/
+<a href="https://huggingface.co/spaces/Aashish13/Crop_Recommendation_System" target="_blank">
+  <img src="https://img.shields.io/badge/🌾 Crop Recommendation System-HuggingFace-yellow?style=for-the-badge&logo=huggingface"/>
+</a>
+
+<a href="https://whatsapp-chat-analysis-b7ztkmuqysbwinh7ma7vld.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/📊 WhatsApp Chat Analysis-Streamlit-red?style=for-the-badge&logo=streamlit"/>
+</a>
+
+<a href="https://aashishkasar-dsi-project2-app-k50loe.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/⚡ Fun Data Science App-Streamlit-blue?style=for-the-badge&logo=streamlit"/>
+</a>
+
+<a href="https://huggingface.co/spaces/Aashish13/Resume_Screening_with_Python_NLP" target="_blank">
+  <img src="https://img.shields.io/badge/📄 Resume Classifier-NLP-green?style=for-the-badge&logo=huggingface"/>
+</a>
+
+<a href="https://aashishkasar-pubs-app-app-uer324.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🍺 PubsFinder-Web App-purple?style=for-the-badge"/>
+</a>
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -124,3 +138,8 @@
 </a>
 
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aashishkasar&theme=default&hide_border=true" alt="GitHub Streak"/>
+</p>
+
