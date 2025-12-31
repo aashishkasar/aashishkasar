@@ -8,18 +8,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishkasar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishkasar" /> </p>
 
 
+- 🔭 Currently working on **Plant Disease Classification**
 
-- 🔭 I’m currently working  **Plant disease Classification**
+- 💬 Ask me about **Agentic AI, Generative AI**
+- 📫 Reach me at **aashishkasar2011@gmail.com**
 
-- 🌱 I’m currently  **Generative AI**, **Agentic AI** Practitioner
 
-- 💬 Ask me about **ML,DL,**
-- 
+<a href="https://www.strava.com/athletes/90620852" target="_blank">
+  <img src="https://img.shields.io/badge/Strava-Activity%20Stats-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/>
+</a>
 
-- 📫 How to reach me **aashishkasar2011@gmail.com**
-- 
-- 🚴‍♂️ Cycling Insights [strava.com/athletes/90620852](strava.com/athletes/90620852)
-- 
+
+
 ### 🚀 Featured Projects
 
 <p align="left">
