@@ -11,15 +11,23 @@
 - 🔭 Currently working on **Langchain**
 
 - 💬 Ask me about **Agentic AI, Generative AI**
-- 📫 Reach me at **aashishkasar2011@gmail.com**
+
+
 
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  <a href="mailto:aashishkasar2011@gmail.com" style="margin-right:10px;">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png"
+         alt="Email"
+         height="30"
+         width="30" />
+  </a>
+  
   <a href="https://discord.gg/XQxxWFZj" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
          alt="Discord"
          height="30"
          width="40" />
